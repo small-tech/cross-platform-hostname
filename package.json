@@ -1,0 +1,23 @@
+{
+  "name": "cross-platform-hostname",
+  "version": "1.0.0",
+  "description": "Cross platform version of os.hostname() that returns the full computer name (including the primary DNS prefix) on Windows so you can write code that relies on the hostname (e.g., automatic TLS certificate provisioning) that will also work on Windows.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hostname",
+    "cross-platform",
+    "windows",
+    "full",
+    "computer",
+    "name",
+    "primary",
+    "DNS",
+    "prefix",
+    "os.hostname"
+  ],
+  "author": "Aral Balkan",
+  "license": "AGPL-3.0-or-later"
+}
